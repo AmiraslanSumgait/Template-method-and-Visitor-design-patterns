@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.exe
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.deps.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\ref\Template.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\bin\Debug\net5.0\Template.pdb
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\ref\Template.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.pdb
+C:\Users\Amiraslan\source\repos\Template and Visitor\Template\obj\Debug\net5.0\Template.genruntimeconfig.cache

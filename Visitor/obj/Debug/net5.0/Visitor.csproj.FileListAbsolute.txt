@@ -1,0 +1,15 @@
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.exe
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.deps.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\ref\Visitor.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\bin\Debug\net5.0\Visitor.pdb
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\ref\Visitor.dll
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.pdb
+C:\Users\Amiraslan\source\repos\Template and Visitor\Visitor\obj\Debug\net5.0\Visitor.genruntimeconfig.cache
